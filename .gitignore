@@ -1,3 +1,9 @@
 Pipfile
 Pipfile.lock
 .env
+db.sqlite3
+blog/__pycache__/
+blog/migrations/
+blog_api/__pycache__/
+blog_api/migrations/
+core/__pycache__/
